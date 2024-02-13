@@ -1,0 +1,8 @@
+name: P-LifeSteal
+version: '1.9.3'
+main: eu.vibemc.lifesteal.Main
+api-version: 1.18
+authors: [ AUTHOR OF ORGIN CODE:devPrzemes GUIFIXXES:SAMJAKOB BUXFIXES&TESTING+GUITWEAKS:CODEMAN04]
+description: Plugin for stealing lives.
+softdepend:
+  - PlaceholderAPI
